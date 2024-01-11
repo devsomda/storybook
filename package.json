@@ -26,10 +26,10 @@
     "init-msw": "msw init public/"
   },
   "devDependencies": {
+    "@storybook/addon-a11y": "^7.6.7",
     "@storybook/addon-essentials": "^7.6.6",
     "@storybook/addon-interactions": "^7.6.6",
     "@storybook/addon-links": "^7.6.6",
-    "@storybook/addon-storyshots": "^7.6.7",
     "@storybook/blocks": "^7.6.6",
     "@storybook/react": "^7.6.6",
     "@storybook/react-vite": "^7.6.6",
@@ -40,7 +40,6 @@
     "msw": "^1.2.1",
     "msw-storybook-addon": "^1.10.0",
     "prop-types": "^15.8.1",
-    "react-test-renderer": "^18.2.0",
     "storybook": "^7.6.6",
     "vite": "^4.2.0"
   },
